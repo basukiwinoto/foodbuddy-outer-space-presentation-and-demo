@@ -4,6 +4,8 @@
 
 ![FoodBuddy Outer Space presentation slide](assets/foodbuddy-outer-space-slide.png)
 
+![FoodBuddy Outer Space TestFlight access slide](assets/foodbuddy-outer-space-testflight.png)
+
 ## Overview
 
 FoodBuddy Outer Space is a proposed personal health companion for astronauts on space missions. Its purpose is to help crew members record important health measurements, review trends, and, in a later development phase, receive evidence-informed guidance. The app is designed around offline operation, recognizing that connectivity and access to Earth-based assistance may be limited during space missions.
