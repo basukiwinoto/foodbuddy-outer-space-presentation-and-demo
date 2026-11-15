@@ -61,3 +61,7 @@ The presentation is a concept illustration, not evidence of clinical validation 
 ## Closing Message
 
 FoodBuddy Outer Space brings vital signs, sleep, nutrition, and hydration into one offline-first interface. The initial product makes health information easier to record and understand; the next phase aims to turn those records into transparent, evidence-informed guidance for longer missions beyond Earth.
+
+## Links
+
+- [2026 NASA Space Apps Challenge](https://www.spaceappschallenge.org/2026/) — The Next Frontier, November 14–15, 2026
