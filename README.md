@@ -2,6 +2,8 @@
 
 > One-Slide Presentation Explanation — November 15, 2026
 
+▶️ **[Watch the demo video](assets/foodbuddy-outer-space-demo.mp4)**
+
 ![FoodBuddy Outer Space presentation slide](assets/foodbuddy-outer-space-slide.png)
 
 ![FoodBuddy Outer Space TestFlight access slide](assets/foodbuddy-outer-space-testflight.png)
