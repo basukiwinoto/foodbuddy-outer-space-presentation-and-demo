@@ -4,9 +4,9 @@
 
 https://github.com/user-attachments/assets/6c91234a-40c5-432b-a12b-eafa3e8456ec
 
-![FoodBuddy Outer Space presentation slide](assets/foodbuddy-outer-space-slide.png)
+[Presentation slide 1](assets/foodbuddy-outer-space-slide.png)
 
-![FoodBuddy Outer Space TestFlight access slide](assets/foodbuddy-outer-space-testflight.png)
+[Presentation slide 2](assets/foodbuddy-outer-space-testflight.png)
 
 ## Overview
 
