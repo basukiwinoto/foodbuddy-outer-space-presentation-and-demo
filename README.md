@@ -2,6 +2,8 @@
 
 > One-Slide Presentation Explanation — November 15, 2026
 
+📲 **Download the TestFlight app** (iOS 27 required): [https://testflight.apple.com/join/nHgbM9jW](https://testflight.apple.com/join/nHgbM9jW)
+
 ## Overview
 
 FoodBuddy Outer Space is a proposed personal health companion for astronauts on space missions. Its purpose is to help crew members record important health measurements, review trends, and, in a later development phase, receive evidence-informed guidance. The app is designed around offline operation, recognizing that connectivity and access to Earth-based assistance may be limited during space missions.
