@@ -2,7 +2,7 @@
 
 > One-Slide Presentation Explanation — November 15, 2026
 
-▶️ **[Watch the demo video](assets/foodbuddy-outer-space-demo.mp4)**
+https://github.com/user-attachments/assets/6c91234a-40c5-432b-a12b-eafa3e8456ec
 
 ![FoodBuddy Outer Space presentation slide](assets/foodbuddy-outer-space-slide.png)
 
